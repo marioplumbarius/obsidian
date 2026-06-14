@@ -13,6 +13,7 @@ The goal is to be able to find it, use it, and build on it later.
 | `leadership/` | Frameworks, tools, and references for leading teams |
 
 ### References & Citations
+
 When a topic file pulls from another file in the vault, cite it with a wikilink:
 `[[pragmatic-engineer-interview]]`
 
