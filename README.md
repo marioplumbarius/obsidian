@@ -1,4 +1,4 @@
-# Mario's Second Brain
+# Obsidian
 
 A personal knowledge vault. Notes go in when something is worth keeping.
 The goal is to be able to find it, use it, and build on it later.
