@@ -16,9 +16,6 @@ The goal is to be able to find it, use it, and build on it later.
 
 Each person gets their own subfolder: `people/<first-last>/`
 
-Inside, one file per source or topic:
-- `pragmatic-engineer-interview.md` — notes from a specific talk or interview
-- `generative-ai.md` — a topic that can be enriched from multiple sources over time
 
 When a topic file pulls from another file in the vault, cite it with a wikilink:
 `[[pragmatic-engineer-interview]]`
@@ -31,4 +28,3 @@ When a topic file pulls from another file in the vault, cite it with a wikilink:
 - **One file per source, one file per topic.** Don't mix them.
 - **Citations stay inside the vault.** Link to vault files, not external URLs.
 - **Topics are living documents.** Add new sources over time, don't create duplicates.
-- **Notes come from Claude Code** via the `mario-pump-to-obsidian` skill. Run it, approve the draft, done.
