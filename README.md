@@ -12,10 +12,6 @@ The goal is to be able to find it, use it, and build on it later.
 | `people/` | Notes on specific people — one subfolder per person |
 | `leadership/` | Frameworks, tools, and references for leading teams |
 
-### People folder convention
-
-Each person gets their own subfolder: `people/<first-last>/`
-
 
 When a topic file pulls from another file in the vault, cite it with a wikilink:
 `[[pragmatic-engineer-interview]]`
