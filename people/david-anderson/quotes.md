@@ -1,7 +1,6 @@
 ---
 title: Quotes by David Anderson 
 date: 2026-06-15
-source: scarletink.com
 tags: [leadership, career, engineering, david-anderson]
 ---
 
