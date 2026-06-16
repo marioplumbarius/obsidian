@@ -1,7 +1,7 @@
 ---
 title: Kelsey Hightower on Generative AI
 date: 2026-06-14
-tags: [from-claude, genai, ai, engineering, philosophy, kelsey-hightower]
+tags: [genai, ai, engineering, leadership, kelsey-hightower]
 ---
 
 # Kelsey Hightower on Generative AI
