@@ -1,8 +1,7 @@
 ---
 title: Kelsey Hightower — Key Strengths & Thought Process
 date: 2026-06-14
-source: claude-code
-tags: [from-claude, people, engineering, career, leadership, kelsey-hightower, kubernetes]
+tags: [engineering, career, leadership, kelsey-hightower, kubernetes, puppet]
 ---
 
 # Kelsey Hightower — Key Strengths & Thought Process
